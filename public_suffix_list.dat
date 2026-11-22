@@ -9156,10 +9156,6 @@ media
 // https://www.iana.org/domains/root/db/meet.html
 meet
 
-// Megaron : Acme
-// https://github.com/plinkplink/megaron/blob/main/README.md
-mathoms.dev
-
 // melbourne : The Crown in right of the State of Victoria, represented by its Department of State Development, Business and Innovation
 // https://www.iana.org/domains/root/db/melbourne.html
 melbourne
@@ -14804,8 +14800,8 @@ hra.health
 medusajs.app
 medusajs.site
 
-// Megaron : https://megaron.dev
-// Submitted by Matt Randall <plinkplink@gmail.com>
+// Megaron : https://github.com/plinkplink/megaron
+// Submitted by Matt Randall <ox8kdjwag@mozmail.com>
 mathoms.dev
 
 // Memset hosting : https://www.memset.com
